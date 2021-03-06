@@ -116,7 +116,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Ahmet ÇETİNKAYA - [@amt_txt](https://twitter.com/amt_txt) - [ahmetcetinkaya7@outlook.com](mailto:ahmetcetinkaya7@outlook.com)
+Ahmet ÇETİNKAYA - [ahmetcetinkaya.info](https://ahmetcetinkaya.info/)
 
 Project Link: [https://github.com/ahmet-cetinkaya/repo_name](https://github.com/ahmet-cetinkaya/repo_name)
 
