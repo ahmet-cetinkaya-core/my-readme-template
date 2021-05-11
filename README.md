@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/ahmet-cetinkaya/repo_name"><img src="repo_icon" height="100"></a>
+  <a href="https://github.com/ahmet-cetinkaya/repo_name"><img src="repo_icon" height="125"></a>
   <h3 align="center">repo_title</h3>
   <p align="center">
     project_description
