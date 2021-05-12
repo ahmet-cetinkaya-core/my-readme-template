@@ -4,7 +4,7 @@
   <a href="https://github.com/ahmet-cetinkaya/repo_name/stargazers"><img src="https://img.shields.io/github/stars/ahmet-cetinkaya/repo_name.svg?style=for-the-badge"></a>
   <a href="https://github.com/ahmet-cetinkaya/repo_name/issues"><img src="https://img.shields.io/github/issues/ahmet-cetinkaya/repo_name.svg?style=for-the-badge"></a>
   <a href="https://github.com/ahmet-cetinkaya/repo_name/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ahmet-cetinkaya/repo_name.svg?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/ahmet-cetinkaya"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"></a>
+  <a href="https://linkedin.com/in/ahmet-cetinkaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 <br />
 
