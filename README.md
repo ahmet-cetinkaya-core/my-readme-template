@@ -25,7 +25,7 @@
   </p>
 </p>
 
-## About The Project
+## 💻 About The Project
 [![product_name Screenshot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
@@ -35,7 +35,7 @@ Here's a blank template to get started:
 ### Built With
 [![][product-screenshot]](https://example.com)
 
-## Getting Started
+## ⚙️ Getting Started
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
@@ -56,15 +56,15 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 
-## Usage
+## 🚀 Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-## Roadmap
+## 🚧 Roadmap
 See the [open issues](https://github.com/ahmet-cetinkaya/repo_name/issues) for a list of proposed features (and known issues).
 
-## Contributing
+## 🤝 Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -73,13 +73,13 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## ⚖️ License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
+## 📧 Contact
 Ahmet ÇETİNKAYA - [ahmetcetinkaya.info](https://ahmetcetinkaya.info/)
 
 Project Link: [https://github.com/ahmet-cetinkaya/repo_name](https://github.com/ahmet-cetinkaya/repo_name)
 
-## Acknowledgements
+## 🙏 Acknowledgements
 - []()
