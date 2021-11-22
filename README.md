@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ahmet-cetinkaya/<repoName>"><img src="repo_icon" height="125"></a>
-  <h3 align="center">repo_title</h3>
+  <h3 align="center"><repoTitle></h3>
   <p align="center">
     project_description
     <br />
