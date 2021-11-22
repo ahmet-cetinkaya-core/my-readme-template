@@ -77,9 +77,9 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-Ahmet Çetinkaya - [ahmetcetinkaya.info](https://ahmetcetinkaya.info/)
+<div>Ahmet Çetinkaya<div>
+<a href="https://ahmetcetinkaya.info/"><img src="https://img.shields.io/badge/ahmetcetinkaya.info-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a>
 
 Project Link: [https://github.com/ahmet-cetinkaya/repo_name](https://github.com/ahmet-cetinkaya/repo_name)
-
 ## 🙏 Acknowledgements
 - []()
