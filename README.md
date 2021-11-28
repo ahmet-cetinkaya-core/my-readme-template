@@ -27,7 +27,7 @@
 
 ## 💻 About The Project
 
-[![<repoTitle> Screenshot][product-screenshot]](https://example.com)
+[![<repoTitle> Screenshot](product-screenshot)](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -35,7 +35,14 @@ Here's a blank template to get started:
 
 ### Built With
 
-[![][product-screenshot]](https://example.com)
+[![](product-screenshot)](https://example.com)
+  
+### Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+
 
 ## ⚙️ Getting Started
 
