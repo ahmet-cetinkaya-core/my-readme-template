@@ -1,4 +1,7 @@
 <p align="center">
+ <a href="https://gitmoji.dev/">😜Gitmoji</a> is used in commit naming in the repository.
+</p>
+<p align="center">
   <a href="https://github.com/ahmet-cetinkaya/<repoName>/graphs/contributors"><img src="https://img.shields.io/github/contributors/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
   <a href="https://github.com/ahmet-cetinkaya/<repoName>/network/members"><img src="https://img.shields.io/github/forks/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
   <a href="https://github.com/ahmet-cetinkaya/<repoName>/stargazers"><img src="https://img.shields.io/github/stars/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
