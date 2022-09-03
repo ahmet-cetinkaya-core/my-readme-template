@@ -1,10 +1,10 @@
-<!-- Here's a blank template to get started: Do a search and replace with your text editor for the following: `REPO_NAME`, `PROJECT_TITLE`, `REPO_ICON`, `PROJECT_DESCRIPTION` -->
+<!-- Here's a blank template to get started: Do a search and replace with your text editor for the following: `REPO_NAME`, `PROJECT_TITLE`, `REPO_ICON`, `PROJECT_DESCRIPTION`, `LICENSE_` -->
 <p align="center">
   <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/graphs/contributors"><img src="https://img.shields.io/github/contributors/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
   <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/network/members"><img src="https://img.shields.io/github/forks/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
   <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/stargazers"><img src="https://img.shields.io/github/stars/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
   <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/issues"><img src="https://img.shields.io/github/issues/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
+  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/ahmet-cetinkaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p><br />
 
@@ -86,7 +86,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## ⚖️ License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the LICENSE_ License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
