@@ -1,44 +1,37 @@
+<!-- Here's a blank template to get started: Do a search and replace with your text editor for the following: `REPO_NAME`, `PROJECT_TITLE`, `REPO_ICON`, `PROJECT_DESCRIPTION` -->
 <p align="center">
- <a href="https://gitmoji.dev/">😜Gitmoji</a> is used in commit naming in the repository.
-</p>
-<p align="center">
-  <a href="https://github.com/ahmet-cetinkaya/<repoName>/graphs/contributors"><img src="https://img.shields.io/github/contributors/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/<repoName>/network/members"><img src="https://img.shields.io/github/forks/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/<repoName>/stargazers"><img src="https://img.shields.io/github/stars/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/<repoName>/issues"><img src="https://img.shields.io/github/issues/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/<repoName>/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ahmet-cetinkaya/<repoName>.svg?style=for-the-badge"></a>
+  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/graphs/contributors"><img src="https://img.shields.io/github/contributors/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
+  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/network/members"><img src="https://img.shields.io/github/forks/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
+  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/stargazers"><img src="https://img.shields.io/github/stars/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
+  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/issues"><img src="https://img.shields.io/github/issues/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
+  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/ahmet-cetinkaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-<br />
+</p><br />
 
 <p align="center">
-  <a href="https://github.com/ahmet-cetinkaya/<repoName>"><img src="repo_icon" height="125"></a>
-  <h3 align="center"><repoTitle></h3>
+  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME"><img src="REPO_ICON" height="125"></a>
+  <h3 align="center">PROJECT_TITLE</h3>
   <p align="center">
-    project_description
+    PROJECT_DESCRIPTION
     <br />
-    <a href="https://github.com/ahmet-cetinkaya/<repoName>"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ahmet-cetinkaya/<repoName>">View Demo</a>
+    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME">View Demo</a>
     ·
-    <a href="https://github.com/ahmet-cetinkaya/<repoName>/issues">Report Bug</a>
+    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ahmet-cetinkaya/<repoName>/issues">Request Feature</a>
+    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/issues">Request Feature</a>
   </p>
 </p>
 
 ## 💻 About The Project
 
-[![<repoTitle> Screenshot](product-screenshot)](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `<repoName>`, `twitter_handle`, `email`, `project_title`, `project_description`
+[![PROJECT_TITLE Screenshot](PRODUCT_SCREENSHOT)](PRODUCT_SCREENSHOT_LINK)
 
 ### Built With
 
-[![](product-screenshot)](https://example.com)
+[![](PRODUCT_SCREENSHOT)](PRODUCT_SCREENSHOT_LINK)
   
 ### Color Reference
 
@@ -64,7 +57,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmet-cetinkaya/<repoName>.git
+   git clone https://github.com/ahmet-cetinkaya/REPO_NAME.git
    ```
 2. Install NPM packages
    ```sh
@@ -75,23 +68,21 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](DOCUMENTATION_LINK)_
 
 ## 🚧 Roadmap
 
-See the [open issues](https://github.com/ahmet-cetinkaya/<repoName>/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ahmet-cetinkaya/REPO_NAME/issues) for a list of proposed features (and known issues).
 
 ## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b <feature>/<AmazingFeature>'`)
-3. Commit your Changes (`git commit -m '<gitmoji> <?(scope):> <AmazingFeature>'`)
-4. Push to the Branch (`git push origin <feature>/<AmazingFeature>`)
+2. Create your Feature Branch (`git checkout -b <feature>/<amazingFeature>'`)
+3. Commit your Changes (`git commit -m '<semanticCommitType>(<scope>): <amazingFeature>'`)
+4. Push to the Branch (`git push origin <feature>/<amazingFeature>`)
 5. Open a Pull Request
-
-In commit naming, commit type has written with gitmoji.
 
 ## ⚖️ License
 
@@ -99,10 +90,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-<div>Ahmet Çetinkaya<div>
-<a href="https://ahmetcetinkaya.info/"><img src="https://img.shields.io/badge/ahmetcetinkaya.info-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a>
+<a href="https://ahmetcetinkaya.me/"><img src="https://img.shields.io/badge/ahmetcetinkaya.me-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a><a href="mailto:ahmetcetinkaya7@outlook.com"><img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 
-Project Link: [https://github.com/ahmet-cetinkaya/<repoName>](https://github.com/ahmet-cetinkaya/<repoName>)
+**Project Link:** [https://github.com/ahmet-cetinkaya/REPO_NAME](https://github.com/ahmet-cetinkaya/REPO_NAME)
 
 ## 🙏 Acknowledgements
 
