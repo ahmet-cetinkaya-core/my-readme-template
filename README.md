@@ -1,100 +1,51 @@
-<!-- Here's a blank template to get started: Do a search and replace with your text editor for the following: `REPO_NAME`, `PROJECT_TITLE`, `REPO_ICON`, `PROJECT_DESCRIPTION`, `LICENSE_` -->
-<p align="center">
-  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/graphs/contributors"><img src="https://img.shields.io/github/contributors/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/network/members"><img src="https://img.shields.io/github/forks/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/stargazers"><img src="https://img.shields.io/github/stars/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/issues"><img src="https://img.shields.io/github/issues/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
-  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ahmet-cetinkaya/REPO_NAME.svg?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/ahmet-cetinkaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p><br />
+<!-- PROJECT_NAME | REPO_NAME -->
 
-<p align="center">
-  <a href="https://github.com/ahmet-cetinkaya/REPO_NAME"><img src="REPO_ICON" height="125"></a>
-  <h3 align="center">PROJECT_TITLE</h3>
-  <p align="center">
-    PROJECT_DESCRIPTION
-    <br />
-    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME">View Demo</a>
-    ·
-    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ahmet-cetinkaya/REPO_NAME/issues">Request Feature</a>
-  </p>
-</p>
+![Software overlay image](https://)
 
-## 💻 About The Project
+# ![Software logo](https://) `PROJECT_NAME` ![GitHub license](https://img.shields.io/github/license/ahmet-cetinkaya/REPO_NAME) ![GitHub stars](https://img.shields.io/github/stars/ahmet-cetinkaya/REPO_NAME?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmet-cetinkaya/REPO_NAME?style=social) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://ahmetcetinkaya.me/donate)
 
-[![PROJECT_TITLE Screenshot](PRODUCT_SCREENSHOT)](PRODUCT_SCREENSHOT_LINK)
+A brief description of your project.
 
-### Built With
+## ⚡ Getting Started
 
-[![](PRODUCT_SCREENSHOT)](PRODUCT_SCREENSHOT_LINK)
-  
-### Color Reference
+This section explains how to get your project up and running.
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+### 📋 Requirements
 
+- Requirement 1
+- Requirement 2
+- Requirement 3
 
-## ⚙️ Getting Started
+### 🛠️ Installation
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
+1. Clone the repository:
+   ```bash
    git clone https://github.com/ahmet-cetinkaya/REPO_NAME.git
    ```
-2. Install NPM packages
-   ```sh
+2. Navigate into the project directory:
+   ```bash
+   cd repository-name
+   ```
+3. Install the dependencies:
+   ```bash
    npm install
    ```
+4. Start the application:
+   ```bash
+   npm start
+   ```
 
-## 🚀 Usage
+## 📖 Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](DOCUMENTATION_LINK)_
-
-## 🚧 Roadmap
-
-See the [open issues](https://github.com/ahmet-cetinkaya/REPO_NAME/issues) for a list of proposed features (and known issues).
+Instructions and examples for using your project.
 
 ## 🤝 Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you'd like to contribute, please follow these steps:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b <feature>/<amazingFeature>'`)
-3. Commit your Changes (`git commit -m '<semanticCommitType>(<scope>): <amazingFeature>'`)
-4. Push to the Branch (`git push origin <feature>/<amazingFeature>`)
-5. Open a Pull Request
-
-## ⚖️ License
-
-Distributed under the LICENSE_ License. See `LICENSE` for more information.
-
-## 📧 Contact
-
-<a href="https://ahmetcetinkaya.me/"><img src="https://img.shields.io/badge/ahmetcetinkaya.me-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a><a href="mailto:ahmetcetinkaya7@outlook.com"><img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
-
-**Project Link:** [https://github.com/ahmet-cetinkaya/REPO_NAME](https://github.com/ahmet-cetinkaya/REPO_NAME)
-
-## 🙏 Acknowledgements
-
-- []()
-<!-- readme template author: https://github.com/ahmet-cetinkaya-core -->
+1. Fork the repository
+2. Create a new branch (`git checkout -b feat/feature-branch`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'feat: add new feature'`)
+5. Push to the branch (`git push origin feat/feature-branch`)
+6. Open a Pull Request
